@@ -1,8 +1,5 @@
 
-
 Here Is Me In A Nuttshell
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Sideflipsa.ga and getting unbanned on Hypixel after i got false banned.
 - 🌱 I’m currently learning coding
@@ -12,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: SideFlipsaga.aternos.me on there you can ask me for my hangouts
 - 😄 Pronouns: Human
 - ⚡ Fun fact: I live off of coding
--->
