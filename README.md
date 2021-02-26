@@ -9,3 +9,4 @@ Here Is Me In A Nuttshell
 - 📫 How to reach me: SideFlipsaga.aternos.me on there you can ask me for my hangouts
 - 😄 Pronouns: Human
 - ⚡ Fun fact: I live off of coding
+[![Sidefli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidefli)](https://github.com/anuraghazra/github-readme-stats)
