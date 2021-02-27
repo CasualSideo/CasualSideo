@@ -10,3 +10,4 @@ Here Is Me In A Nuttshell
 - 😄 Pronouns: Human
 - ⚡ Fun fact: I live off of coding
 [![Sidefli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidefli)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SideFli)](https://github.com/anuraghazra/github-readme-stats)
