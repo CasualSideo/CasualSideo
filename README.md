@@ -8,4 +8,4 @@
 
 
 
-<p>A big supporter of Eaglercraft and BGS so no one is too bored during classes
+<p>Since I have no ideas, please send me some ideas, rubbish or gold, please give anything</p>
