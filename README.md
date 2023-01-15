@@ -1,7 +1,7 @@
-👋 Hi, I’m @ProjectEther
-👀 I’m interested in everyone, please I'm lonely
-🌱 I’m currently learning JS, CSS
-💞️ I’m looking to work on my website more
+*👋 Hi, I’m @ProjectEther
+*👀 I’m interested in everyone, please I'm lonely
+*🌱 I’m currently learning JS, CSS
+*💞️ I’m looking to work on my website more
 
 
 
