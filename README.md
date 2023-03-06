@@ -1,6 +1,6 @@
 *👋 Hi, I’m @ProjectEther
 
-*👀 I’m interested in programming and really PC Gaming as a Genre
+*👀 I’m interested in programming and really PC Gaming as a Genre and it's what I love
 
 *🌱 I’m currently learning JS, CSS and dabling in Rust
 
