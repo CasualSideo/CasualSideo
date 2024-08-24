@@ -1,4 +1,4 @@
-*👋 Hi, I’m @ProjectEther
+*👋 Hi, I’m @CasualSide
 
 *👀 I’m interested in programming and really PC Gaming as a Genre and it's what I love
 
