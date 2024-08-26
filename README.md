@@ -1,4 +1,4 @@
-*👋 Hi, I’m @CasualSide0
+*👋 Hi, I’m @CasualSideo
 
 *👀 I’m interested in programming and PC Gaming as a Genre and it's what I love
 
